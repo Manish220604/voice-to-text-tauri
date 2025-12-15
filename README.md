@@ -91,19 +91,6 @@ npm run tauri dev
 The desktop window should open automatically.
 
 
-🎬 Demo Video
-A demo video showcasing:
-
-Push-to-talk voice input
-
-Real-time transcription
-
-End-to-end functionality
-
-📺 Demo Link:
-👉 
-
-
 🚧 Known Limitations
 Uses ScriptProcessorNode, which is deprecated (chosen for simplicity and clarity).
 In production, this should be replaced with AudioWorkletNode.
